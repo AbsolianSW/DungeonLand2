@@ -1,0 +1,296 @@
+124. Ammunition +2
+125. Amulet of Health
+126. Amulet of Proof Against Detection and Location
+127. Animated Shield
+128. Armor +1
+129. Armor of Resistance
+130. Arrow-Catching Shield
+131. Bag of Beans
+132. Bag of Holding (Variant)
+133. Bag of Tricks (Advanced)
+134. Belt of Dwarvenkind
+135. Belt of Giant Strength (Hill Giant)
+136. Boots of Levitation
+137. Boots of Speed
+138. Boots of Striding and Springing
+139. Bracers of Defense
+140. Brazier of Commanding Fire Elementals
+141. Cape of the Mountebank
+142. Carpet of Flying (5 ft. × 5 ft.)
+143. Chime of Opening
+144. Cloak of Displacement
+145. Cloak of the Bat
+146. Cube of Force
+147. Daern's Instant Fortress
+148. Dancing Sword
+149. Dimensional Shackles
+150. Dragon Scale Mail
+151. Dwarven Plate
+152. Dwarven Thrower
+153. Elven Chain
+154. Figurine of Wondrous Power (Bronze Griffon)
+155. Figurine of Wondrous Power (Ebony Fly)
+156. Figurine of Wondrous Power (Golden Lions)
+157. Figurine of Wondrous Power (Ivory Goats)
+158. Figurine of Wondrous Power (Marble Elephant)
+159. Figurine of Wondrous Power (Obsidian Steed)
+160. Figurine of Wondrous Power (Onyx Dog)
+161. Figurine of Wondrous Power (Serpentine Owl)
+162. Flame Tongue
+163. Folding Boat
+164. Frost Brand
+165. Gem of Seeing
+166. Giant Slayer Weapon
+167. Glamoured Studded Leather
+168. Gloves of Thievery
+169. Helm of Teleportation
+170. Holy Avenger (Lower Variant)
+171. Horn of Blasting
+172. Horn of Valhalla (Silver)
+173. Horseshoes of Speed
+174. Instrument of the Bards (Canaith Mandolin)
+175. Instrument of the Bards (Cli Lyre)
+176. Instrument of the Bards (Doss Lute)
+177. Ioun Stone of Awareness
+178. Ioun Stone of Protection
+179. Ioun Stone of Reserve
+180. Ioun Stone of Sustenance
+181. Ioun Stone of the Intellect
+182. Ioun Stone of Insight
+183. Ioun Stone of Fortitude
+184. Manual of Bodily Health
+185. Manual of Gainful Exercise
+186. Manual of Golems (Flesh)
+187. Manual of Quickness of Action
+188. Marvelous Pigments
+189. Necklace of Fireballs
+190. Necklace of Prayer Beads
+191. Nine Lives Stealer
+192. Oathbow
+193. Oil of Sharpness
+194. Periapt of Proof Against Poison
+195. Pipes of the Sewers
+196. Portable Hole
+197. Potion of Clairvoyance
+198. Potion of Diminution
+199. Potion of Gaseous Form
+200. Potion of Giant Strength (Frost)
+201. Potion of Giant Strength (Hill)
+202. Potion of Giant Strength (Stone)
+203. Potion of Heroism
+204. Potion of Invulnerability
+205. Potion of Mind Reading
+206. Quiver of Ehlonna (Variant)
+207. Ring of Animal Influence
+208. Ring of Evasion
+209. Ring of Feather Falling
+210. Ring of Free Action
+211. Ring of Protection
+212. Ring of Resistance
+213. Ring of Spell Storing
+214. Ring of the Ram
+215. Robe of Scintillating Colors
+216. Rod of Rulership
+217. Rod of the Pact Keeper +2
+218. Rope of Entanglement
+219. Scarab of Protection
+220. Scimitar of Speed
+221. Shield +2
+222. Slaying Weapon
+223. Staff of Charming
+224. Staff of Healing
+225. Staff of Swarming Insects
+226. Staff of the Adder
+227. Staff of the Woodlands
+228. Stone of Controlling Earth Elementals
+229. Sun Blade
+230. Sword of Life Stealing
+231. Sword of Wounding
+232. Tentacle Rod
+233. Tome of Clear Thought
+234. Tome of Leadership and Influence
+235. Tome of Understanding
+236. Wand of Binding
+237. Wand of Enemy Detection
+238. Wand of Fear
+239. Wand of Fireballs
+240. Wand of Lightning Bolts
+241. Wand of Paralysis
+242. Wand of Wonder
+243. Weapon +2
+244. Wings of Flying
+245. Animated Weapon +1
+246. Spellguard Shield
+547. Amulett der Elementaren Qual
+548. Amulett der Lebenskraft
+549. Amulett des Selûniten Widerstands
+550. Amulett der Göttlichen Gunst
+551. Amulett der Tiefen Verbindung
+552. Amulett der Wiederbelebung
+553. Ring der Mystischen Synergie
+554. Ring der Arkansättigung
+555. Ring des Feuerstrahls
+556. Ring der Magischen Hemmung
+557. Ring der freien Bewegung
+558. Ring der Regeneration
+559. Ring des Ausweichens
+560. Ring der Unsichtbarkeit
+561. Ring des Blitzschlags
+562. Umhang des Schutzes +1
+563. Umhang der Verschleierung
+564. Umhang des Umherstreifens
+565. Umhang der Spinnenhaut
+566. Umhang der elementaren Macht
+567. Stiefel des Dimensionssprungs
+568. Stiefel des ungehinderten Schritts
+569. Stiefel der Schnelligkeit
+570. Stiefel des Donnerns
+571. Stiefel der freien Bewegung
+572. Handschuhe der Geschicklichkeit
+573. Handschuhe des Höllenreiters
+574. Handschuhe des Feuers
+575. Handschuhe des Frostes
+576. Handschuhe der Macht des Sturmriesen
+577. Handschuhe des Waffenmeisters
+578. Handschuhe der Zaubermacht
+579. Helm der arkanen Akuität
+580. Helm der Höllenreiter
+581. Helm des Smites
+582. Helm der Verteidigung
+583. Helm des Durchblicks
+584. Schild der Hingabe
+585. Schild des Zauberbanns
+586. Schild des Wächters
+587. Schild der Dunkelheit
+588. Dolch des Giftmeisters
+589. Dolch der Schattenklinge
+590. Kurzschwert der Verbrennung
+591. Kurzschwert der Geschwindigkeit
+592. Langschwert der Gerechtigkeit
+593. Langschwert des Lebensraubs
+594. Großschwert der Tyrannen
+595. Rapier der List
+596. Speer der Nacht
+597. Speer des Mondlichts
+598. Streitkolben des Glaubens
+599. Streitkolben der Zerstörung
+600. Kriegshammer der Betäubung
+601. Axt der Raserei
+602. Großaxt des Blutrausches
+603. Bogen der Dunkelheit
+604. Bogen der Präzision
+605. Schwere Armbrust der Kraft
+606. Leichte Armbrust der Geschwindigkeit
+607. Kampfstab der Elementarmagie
+608. Kampfstab der Zauberkraft
+609. Stab der Feuer
+610. Stab der Kälte
+611. Stab der Blitze
+612. Stab der Nekromantie
+613. Zauberstab der Magischen Geschosse
+614. Zauberstab der Feuerbälle
+615. Zauberstab der Blitze
+616. Zauberstab der Angst
+617. Zauberstab der Verwandlung
+618. Rüstung +2
+619. Mithralrüstung
+620. Adamantinrüstung
+621. Adamantinschild
+622. Adamantatwaffe
+623. Robe der elementaren Macht
+624. Robe des Schutzes
+625. Robe der Zauberkraft
+626. Robe der Sternenkraft
+627. Kettenhemd des Widerstands
+628. Schuppenpanzer der Geschwindigkeit
+629. Plattenrüstung des Schutzes
+630. Elfenkettenhemd
+631. Trank der göttlichen Heilung
+632. Elixier der Donnerstärke
+633. Elixier der Feuerresistenz
+634. Elixier der Giftresistenz
+635. Elixier der arkanen Kultivierung
+636. Schriftrolle der Machtwort-Zauber
+637. Schriftrolle der Ebenenreise
+638. Schriftrolle der Untotenbeherrschung
+639. Schriftrolle der Monsterbeherrschung
+813. Amulett der Lebensenergie
+814. Amulett der Elementaren Macht
+815. Amulett der Wiederherstellung
+816. Amulett der Seelenwache
+817. Amulett der Zauberabwehr
+818. Ring der Regeneration
+819. Ring der Zauberkraft
+820. Ring der freien Bewegung
+821. Ring des Ausweichens
+822. Ring der Elementarverstärkung
+823. Ring der Unsichtbarkeit
+824. Ring des Schutzes +1
+825. Umhang des Verschwindens
+826. Umhang der Spinnenhaut
+827. Umhang der Schattenbewegung
+828. Umhang der arkanen Widerstandskraft
+829. Stiefel der Teleportation
+830. Stiefel der Dimensionsbewegung
+831. Stiefel der Donnerwucht
+832. Stiefel der vollständigen Freiheit
+833. Handschuhe der Geschicklichkeit
+834. Handschuhe der Seelenmacht
+835. Handschuhe des Höllenreiters
+836. Handschuhe der Elementarherrschaft
+837. Handschuhe des Donnerangriffs
+838. Helm der arkanen Akuität
+839. Helm der Gedankenwahrnehmung
+840. Helm der Zauberresistenz
+841. Helm der göttlichen Verteidigung
+842. Schild +2
+843. Schild der Wachsamkeit
+844. Schild des Zauberbanns
+845. Schild der Dunkelheit
+846. Dolch der Schattenklinge
+847. Dolch des Giftmeisters
+848. Kurzschwert der Geschwindigkeit
+849. Kurzschwert der Schatten
+850. Langschwert der Flamme
+851. Langschwert des Lebensraubs
+852. Großschwert des Zorns
+853. Rapier der Präzision
+854. Speer der Nacht
+855. Speer des Mondlichts
+856. Streitkolben der Heiligen Macht
+857. Kriegshammer der Donnerkraft
+858. Großaxt des Blutrausches
+859. Axt der Raserei
+860. Bogen der Dunkelheit
+861. Bogen der Treffsicherheit
+862. Schwere Armbrust der Kraft
+863. Leichte Armbrust der Geschwindigkeit
+864. Kampfstab der Elementarmagie
+865. Kampfstab der Zaubermacht
+866. Stab der Feuer
+867. Stab der Kälte
+868. Stab der Blitze
+869. Stab der Nekromantie
+870. Zauberstab der Feuerbälle
+871. Zauberstab der Blitze
+872. Zauberstab der Angst
+873. Zauberstab der Verwandlung
+874. Rüstung +2
+875. Mithralrüstung
+876. Adamantinrüstung
+877. Adamantinschild
+878. Elfenkettenhemd
+879. Robe der elementaren Macht
+880. Robe der Zauberkraft
+881. Plattenrüstung +2
+882. Schuppenpanzer +2
+883. Kettenrüstung +2
+884. Lederrüstung +2
+885. Elixier der arkanen Kultivierung
+886. Elixier der Feuerresistenz
+887. Elixier der Blitzresistenz
+888. Elixier der Giftresistenz
+889. Trank der überlegenen Heilung
+890. Schriftrolle der Verbannung
+891. Schriftrolle der Monsterbeherrschung
+892. Schriftrolle der Untotenbeherrschung

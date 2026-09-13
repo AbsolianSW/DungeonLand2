@@ -1,0 +1,106 @@
+1. Bead of Nourishment
+2. Bead of Refreshment
+3. Candle of the Deep
+4. Charlatan's Die
+5. Cloak of Billowing
+6. Cloak of Many Fashions
+7. Clockwork Amulet
+8. Clothes of Mending
+9. Dark Shard Amulet
+10. Dread Helm
+11. Enduring Spellbook
+12. Ersatz Eye
+13. Hat of Vermin
+14. Heward's Handy Spice Pouch
+15. Horn of Silent Alarm
+16. Instrument of Illusions
+17. Lock of Trickery
+18. Moon-Touched Sword
+19. Mystery Key
+20. Orb of Direction
+21. Orb of Gonging
+22. Orb of Time
+23. Perfume of Bewitching
+24. Pipe of Smoke Monsters
+25. Pole of Angling
+26. Pole of Collapsing
+27. Pot of Awakening
+28. Prosthetic Limb
+29. Robe of Useful Items
+30. Rope of Mending
+31. Ruby of the War Mage
+32. Shield of Expression
+33. Smoldering Armor
+34. Staff of Adornment
+35. Staff of Birdcalls
+36. Staff of Flowers
+37. Talking Doll
+38. Tankard of Sobriety
+39. Wand of Conducting
+40. Wand of Pyrotechnics
+41. Wand of Scowls
+42. Wand of Smiles
+43. Heward's Hireling Hand
+413. Amulett der verlorenen Stimmen
+414. Amulett der Heilung
+415. Amulett der Unbefleckten Macht
+416. Amulett des Segensträgers
+417. Amulett des Absoluten
+418. Amulett des Selûniten
+419. Ring des Schutzes
+420. Ring der Wahrnehmung
+421. Ring der Akrobatik
+422. Ring der Führung
+423. Ring des Widerstands
+424. Ring der Magischen Rüstung
+425. Ring der Kraft
+426. Ring der Unsterblichkeit
+427. Stiefel der Geschwindigkeit
+428. Stiefel des Komforts
+429. Stiefel des Wanderns
+430. Handschuhe der Kraft
+431. Handschuhe des Bogenschützen
+432. Handschuhe der Diebeskunst
+433. Handschuhe des Schutzes
+434. Umhang des Schutzes
+435. Umhang der Schatten
+436. Helm der Weisheit
+437. Helm der Wahrnehmung
+438. Helm der Tapferkeit
+439. Schild +1
+440. Dolch +1
+441. Kurzschwert +1
+442. Langschwert +1
+443. Großschwert +1
+444. Rapier +1
+445. Speer +1
+446. Morgenstern +1
+447. Streitkolben +1
+448. Kriegshammer +1
+449. Kampfstab +1
+450. Bogen +1
+451. Armbrust +1
+452. Leichte Armbrust +1
+453. Pfeil +1
+454. Bolzen +1
+455. Wurfmesser +1
+456. Beutel mit Heiltränken
+457. Schriftrolle der Magischen Rüstung
+458. Schriftrolle des Schutzes
+459. Schriftrolle der Heilung
+460. Schriftrolle des Nebelschritts
+461. Schriftrolle des Feuerballs
+462. Schriftrolle des Blitzes
+463. Schriftrolle der Unsichtbarkeit
+464. Schriftrolle der Wiederbelebung
+465. Schriftrolle der Dimensionstür
+466. Trank der Heilung
+467. Größerer Heiltrank
+468. Trank der Schnelligkeit
+469. Trank der Unsichtbarkeit
+470. Trank der Stärke des Hügelriesen
+471. Trank der Feuerresistenz
+472. Trank der Kälteresistenz
+473. Trank der Giftresistenz
+474. Trank der Blitzresistenz
+475. Trank der Schattenresistenz

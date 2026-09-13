@@ -1,0 +1,165 @@
+325. Armor of Invulnerability (Legendary Variant)
+326. Armor of Resistance (Legendary Variant)
+327. Apparatus of Kwalish
+328. Belt of Cloud Giant Strength
+329. Belt of Storm Giant Strength
+330. Blade of Disaster
+331. Book of Exalted Deeds
+332. Book of Vile Darkness
+333. Carpet of Flying (20 ft. × 20 ft.)
+334. Cloak of Invisibility
+335. Crystal Ball of Remote Viewing
+336. Deck of Many Things
+337. Defender
+338. Efreeti Chain
+339. Hammer of Thunderbolts
+340. Holy Avenger
+341. Horn of Valhalla (Iron)
+342. Instrument of the Bards (Ollamh Harp)
+343. Ioun Stone of Greater Absorption
+344. Ioun Stone of Mastery
+345. Luck Blade
+346. Manual of Golems (Iron)
+347. Mirror of Life Trapping
+348. Moonblade
+349. Nine Lives Stealer
+350. Plate Armor of Etherealness
+351. Ring of Djinni Summoning
+352. Ring of Invisibility
+353. Ring of Spell Turning
+354. Ring of Three Wishes
+355. Rod of Resurrection
+356. Scarab of Protection
+357. Shield of Missile Attraction
+358. Sovereign Glue
+359. Staff of the Magi
+360. Staff of Power
+361. Staff of the Woodlands (Legendary Variant)
+362. Sun Blade (Legendary Variant)
+363. Sword of Answering
+364. Sword of Life Stealing (Legendary Variant)
+365. Sword of Sharpness
+366. Talisman of Pure Good
+367. Talisman of the Sphere
+368. Talisman of Ultimate Evil
+369. Tome of Clear Thought
+370. Tome of Leadership and Influence
+371. Tome of Understanding
+372. Universal Solvent
+373. Vorpal Sword
+374. Wand of Orcus
+375. Wand of Polymorph (Legendary Variant)
+376. Wand of the War Mage +3 (Legendary Variant)
+377. Well of Many Worlds (Legendary Variant)
+378. Weapon +3 (Legendary Variant)
+706. Baldurans Riesentöter
+707. Baldurans Helm
+708. Blut von Lathander
+709. Nyrulna
+710. Markoheshkir
+711. Gontr Mael
+712. Viconias wandelnder Schild
+713. Duellantenprerogative
+714. Selunes Speer der Nacht
+715. Schattenspeer der Zwielichtflamme
+716. Silbernes Schwert der Astralebene
+717. Orphischer Hammer
+718. Der Beschützer
+719. Helldusk-Rüstung
+720. Helldusk-Helm
+721. Helldusk-Handschuhe
+722. Helldusk-Stiefel
+723. Sarevoks Hornhelm
+724. Mask of the Shapeshifter
+725. Ketherics Schild
+726. Neres Stiefel der Schnelligkeit
+727. Dolch des Chirurgen
+728. Blutdurst
+729. Crimson Mischief
+730. Dolch der Nacht
+731. Shar's Speer der Abenddämmerung
+732. Speer des Morgens
+733. Schwert der Gerechtigkeit
+734. Phalar Aluve
+735. Trauerfrost
+736. Gebrochene Versprechen
+737. Inquisitors Streitkolben
+738. Corvid Token
+739. Staff of Spellpower
+740. Rhapsody
+741. Spellthief
+742. Woe
+743. Markoheshkir – Kereskas Gunst
+744. Robe der Erzmagier
+745. Potent Robe
+746. Robe of the Weave
+747. Birthright
+748. Shapeshifter’s Hat
+749. Pyroquickness Hat
+750. Helm der arkanen Akuität (höhere Variante)
+751. Krone des Karsus
+752. Sarevoks Todesschrei
+753. Baldurans Gigantentöter (verbesserte Variante)
+754. Gontr Mael (erweckte Variante)
+755. Nyrulna (verbesserte Variante)
+756. Duellantenprerogative (Meistervariante)
+961. Baldurans Riesentöter
+962. Baldurans Helm
+963. Blut von Lathander
+964. Nyrulna
+965. Markoheshkir
+966. Gontr Mael
+967. Viconias wandelnder Schild
+968. Duellantenprerogative
+969. Selûnes Speer der Nacht
+970. Schattenspeer der Zwielichtflamme
+971. Silbernes Schwert der Astralebene
+972. Orphischer Hammer
+973. Helldusk-Rüstung
+974. Helldusk-Helm
+975. Helldusk-Handschuhe
+976. Helldusk-Stiefel
+977. Sarevoks Hornhelm
+978. Krone des Karsus
+979. Robe der Erzmagier
+980. Robe des Gewebes
+981. Potente Robe
+982. Birthright
+983. Rhapsody
+984. Woe
+985. Blutdurst
+986. Crimson Mischief
+987. Der Narrenspiegel
+988. Speer des Morgens
+989. Schwert der Gerechtigkeit
+990. Phalar Aluve
+991. Trauerfrost
+992. Inquisitors Streitkolben
+993. Markoheshkir – Kereskas Gunst
+994. Stab der Zaubermacht
+995. Stab der Macht
+996. Stab der Magier
+997. Ring der drei Wünsche
+998. Ring der Unsichtbarkeit
+999. Ring der Zauberreflexion
+1000. Umhang der vollständigen Unsichtbarkeit
+1001. Handschuhe der Seelenfänger
+1002. Handschuhe des Titanen
+1003. Helm der arkanen Vollendung
+1004. Schild der ewigen Wache
+1005. Schild der göttlichen Verteidigung
+1006. Rüstung der Unsterblichkeit
+1007. Rüstung der Ebenen
+1008. Drachenrüstung des Uralten
+1009. Schwert der Schärfe
+1010. Vorpal-Schwert
+1011. Verteidiger
+1012. Glücksklinge
+1013. Heilige Rächerklinge
+1014. Hammer der Donnerblitze
+1015. Axt der Zwergenfürsten
+1016. Auge von Vecna
+1017. Hand von Vecna
+1018. Stab des Orcus
+1019. Deck der vielen Dinge
+1020. Ring des Winters

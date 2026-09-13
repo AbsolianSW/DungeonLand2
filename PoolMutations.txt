@@ -1,0 +1,108 @@
+1 Fear Gaze Bonus Action: Any number of targets in view make a WIS saving throw DC 13 + WIS or be afraid of you, the target can repeat the save on the End of its Turn.
+2 Deafening Screech Bonus Action: All targets in 30 feet Mod make a CON saving throw DC 13 + STR or be deafened, the target can repeat the save on the End of its Turn.
+3 Blinding Flashes Bonus Action: All targets in view make a DEX saving throw DC13 + DEX or become blinded, the target can repeat the save on the End of its Turn.
+4 Petrifaction Gaze Bonus Action: All targets in view make an INT saving throw DC 13 + INT or become petrified, the target can repeat the save on the End of its Turn.
+5 Charming Speech Bonus Action: All targets in 30 feet make a CHAR saving throw DC 13 + CHAR or become charmed, the target can repeat the save on the End of its Turn.
+6 Paralyzing Toxin On Touch: Effected target makes a CON saving throw DC 13 + CON or become poisoned, the target can repeat the save on the End of its Turn.
+7 Invisible As the effect of the spell, this effect is permanent.
+8 Grappler add proficiency when grappling.
+9 Dahlver-Nar Instant Rebirth on Death revive instantly in an unoccupied space closest to your death.
+10 Yog the invincible, gain 30 Max HP
+11 Web Slinger Bonus Action: Innate spellcasting; Web once per round
+12 Artificer 1 level gained in artificer Cannot exceed 20th artificer total level max +1.
+13 Super Strength +4 Strength.
+14 Super Dexterity +4 Dexterity.
+15 Super Constitution +4 Constitution.
+16 Super Intelligence +4 Intelligence.
+17 Super Wisdom +4 Wisdom.
+18 Super Charisma +4 Charisma.
+19 Somewhere in a Dimension far far away in a timeline with nothing special about it "Björn stinkt jetzt XD"
+20 You can throw one handed weapons as if they had the thrown property 20/60 but you need a run up of at least 10 feet
+21 Bonus Action return an uncarried weapon to your hand range 60 feet speed 20 feet per round if it is further away then 1 round you dont need to use another Bonus Action
+22 Randomly choose 2 uniques from these 13, gain one as a resistance and one as a Vulnerability  Acid, Bludgeoning, Cold, Fire, Force, Lightning, Necrotic, Piercing, Poison, Psychic, Radiant, Slashing, Thunder
+23 1A split in 2 at nearest unoccupied, one size smaller, 1/2 Max HP round up, independently, cant use heavy reach, Spellcasterlvl 1/2 round up, retain spellslots and feature uses, stats unchanged, equipment duplicated except magic, duration 10 min or 1 drop to 0, on end original reapears with sum of leftover stat
+24 If you stand still for more then 30 seconds you can choose to appear as any object you imagine, as long as you stand still must be about your size.
+25 You can Upcast a Spell by 1 level for 1 Exhaustion level
+26 On contact with cold Water you are forced to transform into a random Druidic Wild Shape until you come in contact with warm water
+27 Gaseous Form As the effect of the spell, this effect is permanent.
+28 Ethereal Immunity to bludgeoning, piercing, and slashing from non-magical weapons.
+29 Flying As the effect of the spell, this effect is permanent.
+30 Bonus Movement Your speed doubles.
+31 Extra Attacks You can attack twice instead of once when you make an attack on your turn.
+32 Haste As the effect of the spell, this effect is permanent.
+33 Shape Change As the effect of the spell, this effect is permanent.
+34 Light As the effect of the spell, this effect is permanent. Centered on this creature.
+35 Darkness As the effect of the spell, this effect is permanent. Centered on this creature.
+36 Barbarian 1 level gained in barbarian. Cannot exceed 20th Barbarian, total level max +1.
+37 Bard 1 level gained in bard. Cannot exceed 20th Bard, total level max +1.
+38 Cleric 1 level gained in cleric. Cannot exceed 20th Cleric, total level max +1.
+39 Druid 1 level gained in druid. Cannot exceed 20th Druid, total level max +1.
+40 Monk 1 level gained in monk. Cannot exceed 20th Monk, total level max.+1.
+41 Fighter 1 level gained in fighter. Cannot exceed 20th Fighter, total level max +1.
+42 Paladin 1 level gained in paladin. Cannot exceed 20th Paladin, total level max +1.
+43 Sorcerer 1 level gained in sorceror. Cannot exceed 20th Sorcerer, total level max +1.
+44 Wizard 1 level gained in wizard. Cannot exceed 20th Wizard, total level max +1.
+45 Warlock 1 level gained in warlock. Cannot exceed 20th Warlock, total level max +1.
+46 Rogue 1 level gained in rogue. Cannot exceed 20th Rogue, total level max +1.
+47 Ranger 1 level gained in ranger. Cannot exceed 20th Ranger, total level max +1.
+48 Ooze This creature gains Amorphous trait and Ooze Nature Page. 242 Monster Manual.
+49 Rust Touch On Touch: Effected target turns to rust if it was iron or steel.
+50 Seriach summon 2 Hellounds which fight alongside you and take their turns immeadiatly after yours.
+51 Giant This creature becomes one size class larger.
+52 Tiny This creature becomes one size class smaller.
+53 Slow Aura As the effect of the spell, this effect is permanent. Centered on this creature.
+54 Stone Flesh +4 to Armor Class.
+55 Fire Flesh This creature gains immunity to fire damage.
+56 Water Flesh The creature gains the Amorphous Form trait, and can breathe under water.
+57 Air Flesh Resistance to bludgeoning, piercing, and slashing damage.
+58 Wood Flesh Do not require food or sleep. Cannot become unconscious.
+59 Greasy +2 to Armor Class, gain +10 speed, and exudes grease continuously.
+60 Otto’s Irresistable Dancing As the effect of the spell, this effect is permanent.
+61 Puzzle Ring The Chance for Encountering a Treasure Goblin increases 5 times
+62 Half-Dragon This creature gains the Half Dragon template, Page 180 of the Monster Manual.
+63 Shadow This creature gains Living Shadow, Page 85 of the Monster Manual.
+64 Zombie This creature gains the Zombie template, Page 315 of the Monster Manual.
+65 Demon Summoning This creature gains the Demon Summoning template, Page 54 of the Monster Manual.
+66 Devil Summoning This creature gains the Devil Summoning template, Page 68 of the Monster Manual.
+67 Wish Granter This creature gains the Genie Powers template, Page 144 of the Monster Manual.
+68 Scaly Skin This creature gains +2 to Armor Class.
+69 Mephit Summoning This creature gains the Mephit Summoning template, Page 217 of the Monster Manual.
+70 Troll Blood This creature gains 10 HP at the start of each of its turns.
+71 Loathsome Limbs This creature gains the Loathsome Limbs template, Page 291 of the Monster Manual.
+72 Yugoloth Summoning This creature gains the Yugoloth Summoning template, Page 311 of the Monster Manual.
+73 Water Walking As the effect of the spell, this effect is permanent.
+74 Water Breathing As the effect of the spell, this effect is permanent.
+75 Heightened Senses This creature gains advantage on perception checks.
+76 Spider Climb As the effect of the spell, this effect is permanent.
+77 Blinking Bonus Action: Misty Step
+78 Coin Amulett Enemies drop 100 % more Gold
+79 Lucky Egg Combats yield 50 % more EXP
+80 Truesight This creature gains Truesight sense of 60’.
+81 Blindsight This creature gains Blindsight sense of 60’.
+82 Darkvision This creature gains Darkvision sense of 60’.
+83 Herculean This creatures encumbrance weight limit is increased tenfold.
+84 Aware This creature gains the feat Alert.
+85 Gain Expertise in a skill of your choice Repeatable.
+86 Potion Maker This creature adds Proficiency bonuses to the effect of used Potions
+87 You gain a Level
+88 You gain a Magical Secret and you can Cast it without expanding a spellslot
+89 You can concenctrate on multiple Spells now but the CON save increases by 5 for each spell concentrating and you lose all concentration if one fails
+90 Gain resistance to one of the following 13 types at Random Acid, Bludgeoning, Cold, Fire, Force, Lightning, Necrotic, Piercing, Poison, Psychic, Radiant, Slashing, Thunder
+91 Deal 1d6 extra dmg according to one of the following types at Random 13 Acid, Bludgeoning, Cold, Fire, Force, Lightning, Necrotic, Piercing, Poison, Psychic, Radiant, Slashing, Thunder
+92 Quick Attack This creature gains advantage on initiative rolls.
+93 1 BA Target creature must succed on Wis Save vs 8 + prof + Charisma or be forced to mimick your movements to the beast of their abilitys reroll on their turn end, end on eye contact, target creature cant look away willingly on a fail, on a success imune until LR
+94 A Miracoulusly looking Whip Appears in your hands you are Proficiant with it its a magicla finesse reach weapon which deals 1d4 SLSH + 1d6 (1d4, 1d6, 1d8, 1d10, 1d12, 1d20) Random 13 Acid, Bludgeoning, Cold, Fire, Force, Lightning, Necrotic, Piercing, Poison, Psychic, Radiant, Slashing, Thunder 
+95 Advantage and Disadvantage Stacks for you now. Sum them up and roll that man d20 to determine the outcome of your roll, take the result according to what is left Adv or DADV
+97 Random Pool grants a different mutation each time/ Roll again.
+98 Roll Twice Pool grants two mutations.
+99 Roll Three Times Pool grants three mutations.
+106 Immunity to one dmg type chosen random of these 13 Acid, Bludgeoning, Cold, Fire, Force, Lightning, Necrotic, Piercing, Poison, Psychic, Radiant, Slashing, Thunder
+116 You Gain Expertise in a Skill you already have expertise in if you dont gain expertise
+117 On cast roll d10 on 1/2 downcast Spell by one Level, on 9/10 upcast spell by one level. Character Level for cantrips no impact on spell slot used
+118 You have now 6 fingers on each Hand
+119 you can prepare 2 extra Spells
+120 your healing spells deal now Necrotic DMG and your Necrotic dmg spells heal
+121 Healing spells deal necrotic dmg instead unless target undead
+122 your Max Hp reduced by 1d4 every 5 floors can be cured by remove curse or stronger magic
+123 Everything you touch instantly turns vibrant blue until 5 seconds after no contact
+124 Your creature type changes randomly to one of the following Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Monstrosity, Ooze, Plant, Undead

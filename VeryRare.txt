@@ -1,0 +1,212 @@
+247. Ammunition +3
+248. Animated Shield (Variant)
+249. Armor +2
+250. Armor of Invulnerability
+251. Arrow of Slaying
+252. Belt of Fire Giant Strength
+253. Belt of Frost Giant Strength
+254. Belt of Stone Giant Strength
+255. Belt of Storm Giant Strength
+256. Boots of Teleportation
+257. Bow of the Sky Sentinel
+258. Candle of Invocation
+259. Carpet of Flying (10 ft. × 10 ft.)
+260. Cloak of Arachnida
+261. Cloak of the Bat (Variant)
+262. Crystal Ball of Mind Reading
+263. Crystal Ball of Telepathy
+264. Crystal Ball of True Seeing
+265. Cube of Force (Greater Variant)
+266. Defender
+267. Demon Armor
+268. Dimensional Blade
+269. Dragon Scale Mail (Greater)
+270. Dwarven Plate (Greater)
+271. Efreeti Bottle
+272. Figurine of Wondrous Power (Greater Forms)
+273. Frost Brand (Greater)
+274. Gem of Seeing (Greater)
+275. Hammer of Thunderbolts
+276. Helm of Brilliance
+277. Horn of Valhalla (Bronze)
+278. Instrument of the Bards (Anstruth Harp)
+279. Instrument of the Bards (Mac-Fuirmidh Cittern)
+280. Ioun Stone of Greater Absorption
+281. Ioun Stone of Mastery
+282. Manual of Golems (Clay)
+283. Manual of Golems (Stone)
+284. Mirror of Life Trapping
+285. Nine Lives Stealer (Greater)
+286. Nondetection Stone
+287. Obsidian Steed
+288. Oil of Etherealness
+289. Potion of Flying
+290. Potion of Invisibility
+291. Potion of Longevity
+292. Potion of Speed
+293. Potion of Supreme Healing
+294. Potion of Storm Giant Strength
+295. Quiver of Ehlonna (Greater)
+296. Ring of Regeneration
+297. Ring of Shooting Stars
+298. Ring of Telekinesis
+299. Ring of X-Ray Vision
+300. Robe of Stars
+301. Rod of Absorption
+302. Rod of Alertness
+303. Rod of Security
+304. Rod of the Pact Keeper +3
+305. Rod of Lordly Might
+306. Scimitar of Speed (Greater)
+307. Shield +3
+308. Staff of Fire
+309. Staff of Frost
+310. Staff of Power
+311. Staff of Striking
+312. Staff of Thunder and Lightning
+313. Staff of Withering
+314. Sword of Sharpness
+315. Tome of the Stilled Tongue
+316. Wand of Polymorph
+317. Wand of the War Mage +3
+318. Weapon +3
+319. Well of Many Worlds
+320. Manual of Golems (Iron)
+321. Plate Armor of Etherealness
+322. Vorpal Sword (Lower Variant)
+323. Wand of the Vortex
+324. Armor of Resistance (Greater Variant)
+640. Amulett der größeren Lebensenergie
+641. Amulett der Seelenwache
+642. Amulett der unsterblichen Ausdauer
+643. Amulett der verborgenen Macht
+644. Ring der Zauberermeisterschaft
+645. Ring der mentalen Barriere
+646. Ring der Elementarverstärkung
+647. Ring des Regenerationsflusses
+648. Ring der Unsichtbarkeit (verbessert)
+649. Ring der drei Wünsche
+650. Umhang des Verschwindens
+651. Umhang der Schattenbewegung
+652. Umhang der arkanen Widerstandskraft
+653. Stiefel der Teleportation
+654. Stiefel der himmlischen Bewegung
+655. Stiefel der vollständigen Freiheit
+656. Handschuhe der Seelenfänger
+657. Handschuhe des Donnerfürsten
+658. Handschuhe der überlegenen Stärke
+659. Handschuhe der arkanen Macht
+660. Handschuhe des Meisterduells
+661. Helm der Gedankenbeherrschung
+662. Helm der arkanen Verstärkung
+663. Helm der göttlichen Macht
+664. Helm des Zerstörers
+665. Schild der legendären Verteidigung
+666. Schild des Zauberbrechers
+667. Schild der ewigen Wache
+668. Dolch der Schattenmeister
+669. Kurzschwert der Meisterschaft
+670. Langschwert der ewigen Flamme
+671. Großschwert der Vernichtung
+672. Rapier der tödlichen Präzision
+673. Speer der absoluten Nacht
+674. Streitkolben der göttlichen Vergeltung
+675. Kriegshammer der Titanen
+676. Großaxt der Blutkönige
+677. Bogen der unfehlbaren Treffsicherheit
+678. Armbrust des Seelenjägers
+679. Kampfstab der hohen Magie
+680. Stab der Macht
+681. Stab der Nekromantie-Meisterschaft
+682. Stab der elementaren Herrschaft
+683. Zauberstab der mächtigen Verwandlung
+684. Zauberstab der Sturmgewalt
+685. Rüstung der Magieresistenz
+686. Rüstung der Höllenbeständigkeit
+687. Rüstung der Schattenbewegung
+688. Drachenrüstung
+689. Robe der mächtigen Magie
+690. Robe der Unsterblichkeit
+691. Robe der Zauberkunst
+692. Plattenrüstung +3
+693. Schuppenpanzer +3
+694. Kettenrüstung +3
+695. Lederrüstung +3
+696. Elfenkettenrüstung (verbessert)
+697. Adamantine-Rüstung (verbessert)
+698. Trank der ultimativen Heilung
+699. Elixier der Wolkenriesenstärke
+700. Elixier der arkane Kultivierung (größer)
+701. Elixier der göttlichen Widerstandskraft
+702. Schriftrolle der Machtworte
+703. Schriftrolle der Toröffnung
+704. Schriftrolle der Zeitverzerrung
+705. Schriftrolle der Todesmagie
+893. Amulett der großen Lebensenergie
+894. Amulett der Seelenbindung
+895. Amulett der Unsterblichkeit
+896. Amulett der arkanen Macht
+897. Ring der Meisterzauberei
+898. Ring der mentalen Barriere
+899. Ring der vollständigen Regeneration
+900. Ring der Elementarherrschaft
+901. Ring der Unsichtbarkeit (mächtig)
+902. Ring der Zauberreflexion
+903. Umhang der vollständigen Verschleierung
+904. Umhang der Schattenherrschaft
+905. Umhang der arkanen Überlegenheit
+906. Stiefel der Ebenenbewegung
+907. Stiefel der Teleportation (erweitert)
+908. Stiefel der himmlischen Geschwindigkeit
+909. Stiefel der absoluten Bewegungsfreiheit
+910. Handschuhe der Seelenfänger
+911. Handschuhe des Titanen
+912. Handschuhe der arkanen Überlegenheit
+913. Handschuhe des Sturmfürsten
+914. Handschuhe des Waffenmeisters
+915. Helm der Gedankenbeherrschung
+916. Helm der arkanen Verstärkung
+917. Helm der göttlichen Macht
+918. Helm des Vernichters
+919. Schild +3
+920. Schild der legendären Verteidigung
+921. Schild des Zauberbrechers
+922. Schild der ewigen Wache
+923. Dolch der Meisterschatten
+924. Kurzschwert der Meisterschaft
+925. Langschwert der ewigen Flamme
+926. Großschwert der Vernichtung
+927. Rapier der tödlichen Präzision
+928. Speer der absoluten Nacht
+929. Streitkolben der göttlichen Vergeltung
+930. Kriegshammer der Titanen
+931. Großaxt der Blutkönige
+932. Bogen der unfehlbaren Treffsicherheit
+933. Armbrust des Seelenjägers
+934. Kampfstab der hohen Magie
+935. Stab der Macht
+936. Stab der Elementarherrschaft
+937. Stab der Nekromantie-Meisterschaft
+938. Zauberstab der mächtigen Verwandlung
+939. Zauberstab der Sturmgewalt
+940. Rüstung +3
+941. Plattenrüstung +3
+942. Schuppenpanzer +3
+943. Kettenrüstung +3
+944. Lederrüstung +3
+945. Rüstung der Magieresistenz
+946. Rüstung der Höllenbeständigkeit
+947. Robe der mächtigen Magie
+948. Robe der Unsterblichkeit
+949. Robe des Erzmagiers
+950. Drachenrüstung
+951. Elfenkettenrüstung (mächtig)
+952. Adamantinrüstung (verbessert)
+953. Elixier der Wolkenriesenstärke
+954. Elixier der höchsten arkanen Kultivierung
+955. Elixier der göttlichen Widerstandskraft
+956. Trank der ultimativen Heilung
+957. Schriftrolle der Zeitverzerrung
+958. Schriftrolle der Machtworte
+959. Schriftrolle der Ebenenreise
+960. Schriftrolle der Todesmagie

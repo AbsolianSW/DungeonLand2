@@ -1,0 +1,34 @@
+379. Book of Exalted Deeds
+380. Book of Vile Darkness
+381. Eye of Vecna
+382. Hand of Vecna
+383. Invulnerable Armor of Invulnerability
+384. Orb of Dragonkind (Black)
+385. Orb of Dragonkind (Blue)
+386. Orb of Dragonkind (Green)
+387. Orb of Dragonkind (Red)
+388. Orb of Dragonkind (White)
+389. Orb of the Dragon Queen
+390. Ring of Winter
+391. Rod of Seven Parts
+392. Sword of Kas
+393. Talisman of the Sphere (Artifact Variant)
+394. The Axe of the Dwarvish Lords
+395. The Book of Vile Darkness (Artifact Variant)
+396. The Demonomicon of Iggwilv
+397. The Libram of Souls and Flesh
+398. The Machine of Lum the Mad
+399. The Mighty Servant of Leuk-o
+400. The Wand of Orcus
+401. Vecna’s Eye
+402. Vecna’s Hand
+403. Wand of the Death Tyrant
+404. Wand of the Planes
+405. Wyrmskull Throne
+406. Blackstaff
+407. Crook of Rao
+408. The Sword of Zariel
+409. The Teeth of Dahlver-Nar
+410. The Baba Yaga’s Mortar and Pestle
+411. The Book of Vile Darkness (Expanded)
+412. The Book of Exalted Deeds (Expanded)

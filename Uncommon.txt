@@ -1,0 +1,207 @@
+44. Alchemy Jug
+45. Ammunition +1
+46. Amulet of the Drunkard
+47. Bag of Holding
+48. Bag of Tricks (Gray)
+49. Bag of Tricks (Rust)
+50. Bag of Tricks (Tan)
+51. Bead of Force
+52. Boots of Elvenkind
+53. Boots of Striding and Springing
+54. Boots of the Winterlands
+55. Bracers of Archery
+56. Brooch of Shielding
+57. Broom of Flying
+58. Cap of Water Breathing
+59. Circlet of Blasting
+60. Cloak of Elvenkind
+61. Cloak of Protection
+62. Decanter of Endless Water
+63. Deck of Illusions
+64. Dragon Slayer Weapon
+65. Driftglobe
+66. Dust of Disappearance
+67. Dust of Dryness
+68. Dust of Sneezing and Choking
+69. Efficient Quiver
+70. Elemental Gem
+71. Eversmoking Bottle
+72. Eyes of Minute Seeing
+73. Eyes of the Eagle
+74. Figurine of Wondrous Power (Silver Raven)
+75. Gauntlets of Ogre Power
+76. Gem of Brightness
+77. Gloves of Missile Snaring
+78. Gloves of Swimming and Climbing
+79. Goggles of Night
+80. Hat of Disguise
+81. Headband of Intellect
+82. Helm of Comprehending Languages
+83. Helm of Telepathy
+84. Immovable Rod
+85. Javelin of Lightning
+86. Keoghtom's Ointment
+87. Lantern of Revealing
+88. Medallion of Thoughts
+89. Mithral Armor
+90. Necklace of Adaptation
+91. Pearl of Power
+92. Periapt of Health
+93. Periapt of Wound Closure
+94. Pipes of Haunting
+95. Pipes of the Sewers
+96. Quiver of Ehlonna
+97. Ring of Jumping
+98. Ring of Mind Shielding
+99. Ring of Swimming
+100. Ring of Warmth
+101. Ring of Water Walking
+102. Robe of Eyes
+103. Rod of the Pact Keeper +1
+104. Rope of Climbing
+105. Sending Stones
+106. Sentinel Shield
+107. Shield +1
+108. Slippers of Spider Climbing
+109. Stone of Good Luck (Luckstone)
+110. Sword of Vengeance
+111. Weapon +1
+112. Wand of Magic Detection
+113. Wand of Secrets
+114. Wand of the War Mage +1
+115. Wand of Web
+116. Weapon of Warning
+117. Winged Boots
+118. Adamantine Armor
+119. Adamantine Weapon
+120. Armor of Gleaming
+121. Boots of the False Tracks
+122. Cloak of Billowing (Improved Variant)
+123. Wand of Dreadful Wonder
+476. Amulett des Mystischen Schritts
+477. Amulett der Unterdrückung
+478. Amulett der Heilenden Kraft
+479. Amulett der Zauberabwehr
+480. Amulett des Unerschütterlichen
+481. Amulett der Wiederherstellung
+482. Ring des Arkanschlags
+483. Ring der Unterschätzung
+484. Ring der Flammenresistenz
+485. Ring der Säureresistenz
+486. Ring der Giftresistenz
+487. Ring des freien Handelns
+488. Ring des Schutzes
+489. Ring der Zauberspeicherung
+490. Ring des Unsichtbaren
+491. Ring der Geisterhaften Bewegung
+492. Umhang des Schutzes
+493. Umhang der Verschleierung
+494. Umhang des Jagdmeisters
+495. Umhang der elementaren Absorption
+496. Stiefel des Nebelschritts
+497. Stiefel der Geschwindigkeit
+498. Stiefel des Springens
+499. Stiefel der Ausdauer
+500. Stiefel der Donnerwucht
+501. Handschuhe der Kraft
+502. Handschuhe des Bogenschützen
+503. Handschuhe der Diebeskunst
+504. Handschuhe der Macht
+505. Handschuhe des Sturmangriffs
+506. Handschuhe des Zauberers
+507. Helm der arkanen Akuität
+508. Helm der Klarheit
+509. Helm des Schutzes
+510. Helm des Wahrnehmens
+511. Schild des Schutzes +1
+512. Schild des Gleichgewichts
+513. Schild der Wachsamkeit
+514. Dolch der Schatten
+515. Dolch der Vergeltung
+516. Kurzschwert des Giftnebels
+517. Kurzschwert der Verstümmelung
+518. Langschwert der Flamme
+519. Langschwert der Wachsamkeit
+520. Großschwert des Zorns
+521. Rapier der Präzision
+522. Speer des Zurückstoßens
+523. Streitkolben der Heiligen Macht
+524. Kriegshammer der Donnerkraft
+525. Axt der Verbrennung
+526. Bogen der Genauigkeit
+527. Armbrust der Geschwindigkeit
+528. Magischer Kampfstab +1
+529. Schwert des Lebensraubs
+530. Schwert der Verwundung
+531. Flammenschlag-Waffe
+532. Frost-Waffe
+533. Blitz-Waffe
+534. Säure-Waffe
+535. Gift-Waffe
+536. Nekrotische Waffe
+537. Trank der überlegenen Heilung
+538. Trank der Unsichtbarkeit
+539. Trank der Geschwindigkeit
+540. Elixier der Stärke des Hügelriesen
+541. Elixier der Wachsamkeit
+542. Schriftrolle des Gegenzaubers
+543. Schriftrolle der Verbannung
+544. Schriftrolle der Verlangsamung
+545. Schriftrolle der Vergrößerung
+546. Schriftrolle des Fliegens
+757. Amulett des Mystischen Schritts
+758. Amulett des Segensträgers
+759. Amulett der Heilenden Kraft
+760. Amulett der Unbefleckten Macht
+761. Ring der Zauberspeicherung
+762. Ring der Magieresistenz
+763. Ring der Bewegung
+764. Ring der Elementarresistenz
+765. Ring des Schutzes
+766. Ring der Arkansynergie
+767. Umhang des Schutzes
+768. Umhang der Verschleierung
+769. Umhang der Schatten
+770. Umhang der Elementarabsorption
+771. Stiefel des Nebelschritts
+772. Stiefel der Geschwindigkeit
+773. Stiefel des Springens
+774. Stiefel der Ausdauer
+775. Handschuhe der Kraft
+776. Handschuhe der Diebeskunst
+777. Handschuhe des Bogenschützen
+778. Handschuhe des Waffenmeisters
+779. Handschuhe der Macht
+780. Helm der Wahrnehmung
+781. Helm der Klarheit
+782. Helm der arkanen Akuität
+783. Schild +1
+784. Dolch +1
+785. Kurzschwert +1
+786. Langschwert +1
+787. Großschwert +1
+788. Rapier +1
+789. Speer +1
+790. Streitkolben +1
+791. Kriegshammer +1
+792. Kampfstab +1
+793. Bogen +1
+794. Armbrust +1
+795. Magische Pfeile
+796. Magische Bolzen
+797. Robe der Magie
+798. Robe des Schutzes
+799. Rüstung +1
+800. Kettenhemd +1
+801. Lederrüstung +1
+802. Schuppenpanzer +1
+803. Elixier der Stärke des Hügelriesen
+804. Elixier der Wachsamkeit
+805. Trank der größeren Heilung
+806. Trank der Unsichtbarkeit
+807. Trank der Geschwindigkeit
+808. Schriftrolle des Gegenzaubers
+809. Schriftrolle des Nebelschritts
+810. Schriftrolle des Feuerballs
+811. Schriftrolle der Unsichtbarkeit
+812. Schriftrolle der Wiederbelebung
