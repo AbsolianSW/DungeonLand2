@@ -10,6 +10,7 @@ git push
 
 TO DO:
   -> The Gambler should have the Option to Gamble with Money from the Party
+
   -> Random Encounters should Drop Money According to the DM's Guide Table for Encounter Gold
   -> A Room can have more than 1 Thing ( Enocunter Trap Puzzle ETC)
   -> A Floor should have Basic Navigation ( Rooms can have multiple doors and Entrances
